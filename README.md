@@ -1,7 +1,7 @@
 # simple_ros_client_application
 A desktop application using the Qt framework to publish messages over a websocket connection in order to utilize ROS service and pub/sub functionality. The published messages can control the movements a ROS tool known as turtlesim. 
 
-##Dependencies: 
+## Dependencies: 
 
 - Turtlesim
 - Ros
@@ -9,14 +9,14 @@ A desktop application using the Qt framework to publish messages over a websocke
 - Qt desktop application - simple_ros_client_application
     
 
-##Setup Activities Include: 
+## Setup Activities Include: 
 
 - Installing ros melodic
 - Installing rosbridge_server
 - Developing Qt application using Qt creator and framework.
     
 
-##References:
+## References:
 
 1. http://wiki.ros.org/turtlesim/Tutorials/Moving%20in%20a%20Straight%20Line
 2. http://wiki.ros.org/rosbridge_suite
